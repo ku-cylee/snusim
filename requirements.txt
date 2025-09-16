@@ -1,0 +1,3 @@
+flask==3.0.3
+Flask-SocketIO==5.5.1
+PyVerilator==0.7.0
